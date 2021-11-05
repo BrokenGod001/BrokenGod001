@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrokenGod001
 - 👀 I’m interested in Killing.
 - 🌱 I’m currently learning Bug Killing(hunting)
-- 💞️ I’m looking to collaborate on Bug Killing.
+- 💞️ I’m looking to collaborate for Bug Killing.
 - 📫 How to reach me: CalL mE By YoUr NamE.
 
 <!---
